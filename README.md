@@ -5,7 +5,7 @@ This project was built with Javascript, HTML, and CSS on VSCode.
 
 ## How to use
 
-1. CLone the repository
+1. Clone the repository
 2. Open the files in VSCode.
 3. Open the 'index.html' file and start a live server
 4. Click the "Random Pokemon" button to retrieve data about a random pokemon that displays:
